@@ -20,6 +20,9 @@
 <msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Instruction_Register.vhd&quot; into library work</arg>
 </msg>
 
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Multiplicateur.vhd&quot; into library work</arg>
+</msg>
+
 <msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Operandes_Multiplexer.vhd&quot; into library work</arg>
 </msg>
 

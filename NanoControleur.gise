@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="NanoControleur.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="nanoControleur.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="nanoControleur.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="nanoControleur.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="nanoControleur.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="nanoControleur.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="nanoControleur.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="nanoControleur.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="nanoControleur.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="nanoControleur.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="nanoControleur.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="nanoControleur.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="nanoControleur_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="nanoControleur_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="nanoControleur_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="nanoControleur_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="nanoControleur_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="nanoControleur_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="nanoControleur_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="nanoControleur_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="nanoControleur_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="nanoControleur_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="5758767728848124432" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="7440456023207365610" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="4995455657319910232" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-6388418249807140552" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905241" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-6199773871607896204" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905251" xil_pn:in_ck="5242494223776795636" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="5384869941185573512" xil_pn:start_ts="1418905241">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="nanoControleur.lso"/>
+      <outfile xil_pn:name="nanoControleur.ngc"/>
+      <outfile xil_pn:name="nanoControleur.ngr"/>
+      <outfile xil_pn:name="nanoControleur.prj"/>
+      <outfile xil_pn:name="nanoControleur.stx"/>
+      <outfile xil_pn:name="nanoControleur.syr"/>
+      <outfile xil_pn:name="nanoControleur.xst"/>
+      <outfile xil_pn:name="nanoControleur_vhdl.prj"/>
+      <outfile xil_pn:name="nanoControleur_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905251" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-4041846330617927539" xil_pn:start_ts="1418905251">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905256" xil_pn:in_ck="8846090134428818527" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-2381085597090678766" xil_pn:start_ts="1418905251">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="nanoControleur.bld"/>
+      <outfile xil_pn:name="nanoControleur.ngd"/>
+      <outfile xil_pn:name="nanoControleur_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1418905261" xil_pn:in_ck="8846090134428818528" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="6918683465102363066" xil_pn:start_ts="1418905256">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="nanoControleur.pcf"/>
+      <outfile xil_pn:name="nanoControleur_map.map"/>
+      <outfile xil_pn:name="nanoControleur_map.mrp"/>
+      <outfile xil_pn:name="nanoControleur_map.ncd"/>
+      <outfile xil_pn:name="nanoControleur_map.ngm"/>
+      <outfile xil_pn:name="nanoControleur_summary.xml"/>
+      <outfile xil_pn:name="nanoControleur_usage.xml"/>
+    </transform>
+  </transforms>
+
+</generated_project>

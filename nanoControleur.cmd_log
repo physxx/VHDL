@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/nanoControleur.xst" -ofn "C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/nanoControleur.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-ft256-4 nanoControleur.ngc nanoControleur.ngd  
+map -intstyle ise -p xc3s400-ft256-4 -cm area -ir off -pr off -c 100 -o nanoControleur_map.ncd nanoControleur.ngd nanoControleur.pcf 

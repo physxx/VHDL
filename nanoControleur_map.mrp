@@ -1,0 +1,33 @@
+
+Section 1 - Errors
+------------------
+FATAL_ERROR:MapHelpers:basmpreport.c:318:1.18 - Cannot open mapper report file
+   'nanoControleur_map.mrp'.   For technical support on this issue, please visit
+   http://www.xilinx.com/support.
+INTERNAL_ERROR:Portability:Port_MsgStreamImp.c:468:1.20 - Unable to delete
+   requested message stream. 
+
+Section 2 - Warnings
+--------------------
+
+Section 3 - Informational
+-------------------------
+INFO:MapLib:562 - No environment variables are currently set.
+INFO:LIT:244 - All of the single ended outputs in this design are using slew
+   rate limited output drivers. The delay on speed critical single ended outputs
+   can be dramatically reduced by designating them as fast outputs.
+
+Section 4 - Removed Logic Summary
+---------------------------------
+   2 block(s) optimized away
+
+Section 5 - Removed Logic
+-------------------------
+
+Optimized Block(s):
+TYPE 		BLOCK
+GND 		XST_GND
+VCC 		XST_VCC
+
+To enable printing of redundant blocks removed and signals merged, set the
+detailed map report option and rerun map.

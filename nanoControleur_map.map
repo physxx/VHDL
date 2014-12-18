@@ -1,0 +1,23 @@
+Release 14.6 Map P.68d (nt64)
+Xilinx Map Application Log File for Design 'nanoControleur'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc3s400-ft256-4 -cm area -ir off -pr off
+-c 100 -o nanoControleur_map.ncd nanoControleur.ngd nanoControleur.pcf 
+Target Device  : xc3s400
+Target Package : ft256
+Target Speed   : -4
+Mapper Version : spartan3 -- $Revision: 1.55 $
+Mapped Date    : Thu Dec 18 13:20:58 2014
+
+Mapping design into LUTs...
+Running directed packing...
+Running delay-based LUT packing...
+Running related packing...
+Updating timing models...
+FATAL_ERROR:MapHelpers:basmpreport.c:318:1.18 - Cannot open mapper report file
+   'nanoControleur_map.mrp'.   For technical support on this issue, please visit
+   http://www.xilinx.com/support.
+INTERNAL_ERROR:Portability:Port_MsgStreamImp.c:468:1.20 - Unable to delete
+   requested message stream. 

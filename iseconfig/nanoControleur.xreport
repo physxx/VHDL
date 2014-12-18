@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2014-12-18T13:38:45</DateModified>
+  <DateModified>2014-12-18T13:20:26</DateModified>
   <ModuleName>nanoControleur</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/malo.zollikof/Documents/HE-ARC/Electronique_INF/ProjetVHDL/VHDL/iseconfig/nanoControleur.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/malo.zollikof/Documents/HE-ARC/Electronique_INF/ProjetVHDL/VHDL\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/iseconfig/nanoControleur.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur</ImplementationReportsDirectory>
   <DateInitialized>2014-12-18T13:20:26</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

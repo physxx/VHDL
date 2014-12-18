@@ -8,7 +8,52 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/malo.zollikof/Documents/HE-ARC/Electronique_INF/ProjetVHDL/VHDL/Multiplicateur.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/ALU.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Address_Decode.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Data_Multiplexer.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Instruction_Register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Operandes_Multiplexer.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Operandes_Register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Output_Register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Program_Counter.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/RAM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/ROM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Sequenceur.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/Status_Register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/W_Register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/nanoControleur.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/nanoProcesseur.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/NanoControleur/nanoProcesseur_package.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

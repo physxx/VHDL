@@ -8,56 +8,5 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/ALU.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Address_Decode.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Data_Multiplexer.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Instruction_Register.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Multiplicateur.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Operandes_Multiplexer.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Operandes_Register.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Output_Register.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Program_Counter.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/RAM.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/ROM.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Sequenceur.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/Status_Register.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/W_Register.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/nanoControleur.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/nanoProcesseur.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/luc.wunderli/Dropbox/HE-ARC/SystemesNumeriquesEtElectronique/Electronique_INF/GitVHDL/VHDL/nanoProcesseur_package.vhd&quot; into library work</arg>
-</msg>
-
 </messages>
 
